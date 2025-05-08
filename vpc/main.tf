@@ -10,7 +10,7 @@ resource "aws_vpc" "main" {
 
   tags = {
     Name        = "vpc-dev"
-    Owner       = "kalyan"
+    Owner       = "Murali"
     Environment = "dev"
   }
 }
